@@ -2,8 +2,6 @@
 
 Basketball Statistics Demo
 
-Created by Jordan Volz (jordan.volz@cloudera.com)
-
 ## Use Case 
 
 End-to-end spark workflow: data processing, ad-hoc analytics, and predictive analytics
